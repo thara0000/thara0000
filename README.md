@@ -66,7 +66,7 @@ A backend system designed to support applicant tracking and recruitment-related 
 * Business logic implementation
 * System integration
 
-#> Repository link can be added here when the project is available on GitHub.
+<-- > Repository link can be added here when the project is available on GitHub. -->
 
 ---
 
