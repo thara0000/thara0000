@@ -8,6 +8,19 @@
 
 ---
 
+### 👋 About Me
+
+- 🎓 Currently studying **IT4206 – Enterprise Java Technologies**
+- 💻 Full-stack developer working across **Go (backend)** and **React (frontend)**
+- 📡 Also work on **GNSS/positioning systems** — interfacing with NTRIP casters, parsing RTCM/NMEA data, and streaming real-time correction data over TCP/WebSockets
+- 🌱 Currently exploring: real-time data streaming, hardware/protocol-level networking (HTTP/0.9, raw TCP)
+- 📍 Based in Sri Lanka
+- 💬 Ask me about: Go, React, GNSS/NTRIP, WebSockets, enterprise Java
+
+> Feel free to edit the bullet points above — add your name, role/title, current employer or university, or anything else you'd like visitors to know.
+
+---
+
 ### 🔭 What I'm working on
 
 - Building a React + Go application that interfaces with an NTRIP caster for rover/GNSS correction data
